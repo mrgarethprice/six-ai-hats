@@ -62,7 +62,7 @@ Identify claims that are presented as self-evident but are actually hypotheses. 
 - "This is technically feasible" (has anyone prototyped it?)
 
 #### Lens 4: The analogy problem
-If the document draws an analogy to another company or model (e.g., "we're the Rippling of X"), examine where the analogy breaks down. Analogies are persuasive but hide structural differences between the source and target domains.
+If the document draws an analogy to another company or model (e.g., "we're the Uber of X"), examine where the analogy breaks down. Analogies are persuasive but hide structural differences between the source and target domains.
 
 #### Lens 5: Speculative examples
 Look for scenarios presented as obvious benefits. For each one, ask: has this been tested? Is the causal mechanism proven? Could a simpler approach achieve the same result? Would the target audience actually value this?

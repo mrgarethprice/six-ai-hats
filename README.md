@@ -8,8 +8,8 @@ These skills bring that discipline to AI-assisted analysis of documents, proposa
 
 ## The Hats
 
-| Hat | Skill | Mode | Ask for it when you want... |
-|-----|-------|------|-----------------------------|
+| Hat | Skill | Mode | Ask for it when you want… |
+|-----|-------|------|--------------------------|
 | White | `white-hat` | Facts & Information | A fact-check, data audit, or separation of what's known vs. assumed |
 | Red | `red-hat` | Feelings & Intuition | A gut-check — honest emotional reactions without justification |
 | Black | `black-hat` | Risks & Critique | A stress-test of claims, assumptions, and reasoning |
@@ -41,6 +41,7 @@ Use a single hat when you want depth in one mode of thinking:
 > "Blue hat this discussion" — synthesise and recommend
 
 Individual hats produce deeper output than they do in the full sequence, where each hat is condensed to keep the total analysis manageable.
+
 ### Partial combinations
 
 Ask for any subset:
